@@ -7,3 +7,5 @@ Educational project (Jonas Schmedtmann JS online course).
 
 ## Site published:
 https://ebalciunaite.github.io/Pig-game/
+
+Collect 100 points to win the game!
